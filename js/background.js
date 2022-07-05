@@ -4,4 +4,4 @@ const chosenImage = images[Math.floor(Math.random() * images.length)];
 
 const bgImage = document.body;
 
-bgImage.style.backgroundImage = `url("../img/${chosenImage}")`;
+bgImage.style.backgroundImage = `url("./img/${chosenImage}")`;
