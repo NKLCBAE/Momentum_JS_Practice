@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-repeat : no-repeat;
+    background-size : cover;
+    margin-left:45%;
+    margin-top:20%;
+}
+*{
+    color:white
+}
+button{
+    color:red
+}
+h1{
+
+}
